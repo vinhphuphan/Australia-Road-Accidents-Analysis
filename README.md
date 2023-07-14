@@ -58,3 +58,10 @@ Road accident fatalities exhibit a notable increase as speed limits escalate, wi
 The data used in this report that present fatal crash data for 2010-2023 are based on the ARDD (refer to table source). The database is available at
 [Australian Road Deaths Database - ARDD](www.bitre.gov.au/statistics/safety/fatal_road_crash_database) and at [data.gov.au](data.gov.au).
 
+## Related Projects:question: 👨‍💻 🛰️
+
+<code>[Olympic-Weightlifting-Data-Analysis](https://github.com/vinhphuphan/Olympic-Weightlifting-Data-Analysis)</code> 📊
+
+<code>[Titanic - Machine Learning from Disaster using Python](https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster)</code> 📊
+
+<code>[Text Classification With Movie Reviews](https://github.com/vinhphuphan/Text-Classification-With-Movie-Reviews/)</code> 📊
