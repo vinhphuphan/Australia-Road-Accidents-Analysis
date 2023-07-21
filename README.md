@@ -6,7 +6,7 @@ The "Australia Road Deaths Statistic Report Using Excel" provides a comprehensiv
 This report aims to identify trends, factors, and regional disparities related to road accidents, offering valuable insights for policymakers and stakeholders in the field of road safety. By leveraging Excel's tools, this report presents key findings and evidence-based recommendations to reduce road fatalities and create safer roadways.
 
 I have created a dynamic dashboard to visualise the data to gain the better insights of the trend and facts behind the scene. The data is collected until May 2023. Beside that, there are some precious findings that I present below :
-<p align="center"><img style="align: center;" src="https://github.com/vinhphuphan/Australia-Road-Accidents-Analysis/blob/main/images/Dashboard.png?raw=true" width=900></p>
+<p align="center"><img style="align: center;" src="https://github.com/vinhphuphan/Australia-Road-Accidents-Analysis/blob/main/images/Dashboard.png?raw=true" style="max-width: 100%"></p>
 
 ## Findings
 
