@@ -58,12 +58,34 @@ Road accident fatalities exhibit a notable increase as speed limits escalate, wi
 The data used in this report that present fatal crash data for 2010-2023 are based on the ARDD (refer to table source). The database is available at
 [Australian Road Deaths Database - ARDD](www.bitre.gov.au/statistics/safety/fatal_road_crash_database) and at [data.gov.au](data.gov.au).
 
-## Related Projects:question: 👨‍💻 🛰️
+### Related Projects:question: 👨‍💻 🛰️
 
-<code>[Olympic-Weightlifting-Data-Analysis](https://github.com/vinhphuphan/Olympic-Weightlifting-Data-Analysis)</code> 📊
+**Data Analysis**
+
+<code>[Olympic-Weightlifting-Data-Analysis Using R](https://github.com/vinhphuphan/Olympic-Weightlifting-Data-Analysis)</code> 📊
+
+<code>[Australia Road Deaths Statistic Report Using Excel](https://github.com/vinhphuphan/Australia-Road-Deaths-Statistic)</code> 📊
 
 <code>[Titanic - Machine Learning from Disaster using Python](https://github.com/vinhphuphan/Titanic-Machine-Learning-from-Disaster)</code> 📊
+
+<code>[Australian Politicians Twitter Data Analysis Using Python](https://github.com/vinhphuphan/Tweets-Analysis)</code> 📊
+
+**Data Science Applications**
 
 <code>[Text Classification With Movie Reviews](https://github.com/vinhphuphan/Text-Classification-With-Movie-Reviews/)</code> 📊
 
 <code>[Living Species Image Classification using Python](https://github.com/vinhphuphan/Living-Species-Image-Classification)</code> 📊
+
+<code>[Name Entity Recognition](https://github.com/vinhphuphan/Name-Entity-Recognition)</code> 📊
+
+**Website Front End Practice**
+
+<code>[Hospital-Landing-Page](https://github.com/vinhphuphan/Hospital-Landing-Page/)</code> 📊
+
+<code>[LaslesVPN Landing Page](https://github.com/vinhphuphan/Lasles-VPN-Landing-Page)</code> 📊
+
+<code>[Frontend Mentor Challenge Submission Using HTML&CSS](https://github.com/vinhphuphan/Frontendmentor-Challenge-HTML-CSS)</code> 📊
+
+**Have fun building!** 🚀
+
+
